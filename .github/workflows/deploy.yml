@@ -18,7 +18,7 @@ env:
   IMPRINT_SITE_URL: https://www.bluexiii.com
   IMPRINT_BASE_PATH: /astro-theme-imprint
   IMPRINT_AUTHOR: BlueXIII
-  IMPRINT_GITHUB_URL: https://github.com/xiiiblue
+  IMPRINT_GITHUB_URL: https://github.com/xiiiblue/astro-theme-imprint
 
 jobs:
   validate:
