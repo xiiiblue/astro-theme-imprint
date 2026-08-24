@@ -35,7 +35,7 @@ npm run dev
 
 使用自定义域名或GitHub用户站点时，将`basePath`设为`/`。如果地址是`https://name.github.io/my-blog/`，则设为`/my-blog`。
 
-在线演示或特定部署可以在构建环境中设置`IMPRINT_SITE_URL`和`IMPRINT_BASE_PATH`，它们会覆盖`src/config.ts`中的默认值。
+在线演示或特定部署可以在构建环境中设置`IMPRINT_SITE_URL`、`IMPRINT_BASE_PATH`、`IMPRINT_AUTHOR`和`IMPRINT_GITHUB_URL`，它们会覆盖`src/config.ts`中的默认值。
 
 颜色、字体、间距和响应式规则位于`src/styles/global.css`，文件开头的CSS自定义属性是主要设计变量。
 

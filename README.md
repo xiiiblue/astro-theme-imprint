@@ -54,7 +54,7 @@ export const SITE = {
 
 Use `/` as `basePath` for a custom domain or a GitHub user site. For a project site such as `https://name.github.io/my-blog/`, use `/my-blog`.
 
-For hosted demos or deployment-specific overrides, set `IMPRINT_SITE_URL` and `IMPRINT_BASE_PATH` in the build environment. These values take precedence over the defaults in `src/config.ts`.
+For hosted demos or deployment-specific overrides, set `IMPRINT_SITE_URL`, `IMPRINT_BASE_PATH`, `IMPRINT_AUTHOR`, and `IMPRINT_GITHUB_URL` in the build environment. These values take precedence over the defaults in `src/config.ts`.
 
 Colors, typography, spacing, and responsive behavior are defined in `src/styles/global.css`. The main design tokens are CSS custom properties at the top of that file.
 
