@@ -6,6 +6,17 @@ Imprint gives technical notes, field reports, and long-form writing a calm place
 
 [中文说明](./README.zh-CN.md)
 
+## Preview
+
+[View the live demo](https://www.bluexiii.com/astro-theme-imprint/)
+
+![Imprint home page in the light color scheme](./docs/screenshots/home-desktop.png)
+
+<p>
+  <img src="./docs/screenshots/article-dark.png" alt="Imprint article page in the dark color scheme" width="700" />
+  <img src="./docs/screenshots/home-mobile.png" alt="Imprint home page on a mobile screen" width="280" />
+</p>
+
 ## Features
 
 - Minimal editorial design with light and dark color schemes

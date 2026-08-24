@@ -4,6 +4,17 @@ Imprint是一套安静、专注写作的[Astro](https://astro.build/)博客主�
 
 [English README](./README.md)
 
+## 主题预览
+
+[查看在线Demo](https://www.bluexiii.com/astro-theme-imprint/)
+
+![Imprint浅色模式首页](./docs/screenshots/home-desktop.png)
+
+<p>
+  <img src="./docs/screenshots/article-dark.png" alt="Imprint深色模式文章页" width="700" />
+  <img src="./docs/screenshots/home-mobile.png" alt="Imprint移动端首页" width="280" />
+</p>
+
 ## 功能
 
 - 简洁的文章型设计，支持明暗主题
