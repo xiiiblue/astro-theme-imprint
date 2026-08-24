@@ -14,6 +14,10 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+env:
+  IMPRINT_SITE_URL: https://xiiiblue.github.io
+  IMPRINT_BASE_PATH: /astro-theme-imprint
+
 jobs:
   validate:
     runs-on: ubuntu-latest
